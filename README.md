@@ -2,6 +2,10 @@
 
 A desktop browser game built with Three.js, TypeScript, Vite, Rapier, and procedural Web Audio.
 
+## Play online
+
+**[Play Gingerbread Mayhem](https://nando-sunday.github.io/gingerbread-mayhem/)** in a desktop browser. Choose Gingerbread Gate on the Sugar Kingdom map, aim with the mouse, hold left click to fire, and press Escape to pause. Completing Level 1 unlocks Chocolate Citadel on that browser. Progress is stored locally for each player.
+
 ## Play locally
 
 ```bash
